@@ -1,3 +1,2 @@
 I'm not empty
-
-updated from GitHub interface.
+Updated from GitHub interface.
